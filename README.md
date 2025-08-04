@@ -12,7 +12,6 @@ I'm **Amex**, a passionate developer diving deep into the world of **Python**, *
 - 🔐 Cybersecurity Enthusiast  
 - 🐍 Python Developer  
 - ⚙️ Learning Rust  
-- 🧪 Always tinkering with scripts, tools, and exploits
 
 ---
 
