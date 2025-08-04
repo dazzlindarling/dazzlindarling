@@ -1,5 +1,5 @@
 # 👋 Hello there!
-
+![Profile Picture](https://github.com/opseec.png)
 I'm **Amex**, a passionate developer diving deep into the world of **Python**, **Cybersecurity**, and currently learning **Rust** 🦀.  
 
 ---
@@ -23,11 +23,6 @@ I'm **Amex**, a passionate developer diving deep into the world of **Python**, *
 
 ---
 
-## 📷 GitHub Profile Picture
-
-![Profile Picture](https://github.com/opseec.png)
-
----
 
 ## 🌱 Currently
 
