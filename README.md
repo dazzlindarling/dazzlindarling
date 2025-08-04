@@ -1,7 +1,6 @@
 # 👋 Hello there!
 
 I'm **Amex**, a passionate developer diving deep into the world of **Python**, **Cybersecurity**, and currently learning **Rust** 🦀.  
-I enjoy building, breaking, and securing things — one line of code at a time.
 
 ---
 
