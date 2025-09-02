@@ -1,5 +1,5 @@
 # 👋 Hello there!
-![Profile Picture](https://github.com/opseec.png)
+![Profile Picture](https://github.com/ru6w.png)
 
 ---
 
